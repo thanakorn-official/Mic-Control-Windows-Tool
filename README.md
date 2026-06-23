@@ -12,6 +12,18 @@
 
 ---
 
+สำหรับผู้ใช้งานทั่วไปที่ต้องการนำโปรแกรมไปใช้งานทันที สามารถดาวน์โหลดไฟล์ติดตั้ง (.exe) เวอร์ชันล่าสุดได้ที่เมนู **Releases** โดยไม่ต้องติดตั้ง Python หรือตั้งค่าโค้ดใดๆ เพิ่มเติมครับ
+
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanakorn-official/Mic-Control-Windows-Tool/releases/latest)
+
+**ขั้นตอนการใช้งาน:**
+1. คลิกที่ปุ่มดาวน์โหลดด้านบน เพื่อไปยังหน้า **Releases** ของโปรเจกต์
+2. ดาวน์โหลดไฟล์ตัวติดตั้ง (เช่น `MicControl_Setup_v1.0.exe`) ในหัวข้อ Assets
+3. ดับเบิ้ลคลิกไฟล์เพื่อรันโปรแกรมติดตั้ง (Setup Wizard) และกด Next ตามขั้นตอนบนหน้าจอ
+4. เมื่อติดตั้งเสร็จสิ้น โปรแกรมจะพร้อมรันและซ่อนตัวทำงานอยู่ที่มุมขวาล่าง (System Tray) ทันที!
+
+---
+
 ### 📝 รายละเอียดโปรเจกต์ (Project Overview)
 **Mic-Control-Windows-Tool** เป็นแอปพลิเคชันยูทิลิตี้สำหรับระบบปฏิบัติการ Windows พัฒนาด้วยภาษา Python เพื่อช่วยให้ผู้ใช้สามารถจัดการ เลือก และควบคุมระดับเสียงหรือสถานะเปิด-ปิดของไมโครโฟน (Microphone Audio Endpoint) ได้อย่างรวดเร็วผ่านทาง **System Tray** โดยไม่ต้องเปิดหน้าต่าง Sound Settings ของ Windows ให้ยุ่งยาก ตัวระบบถูกออกแบบมาให้ทำงานแบบเบื้องหลัง (Background Process) กินทรัพยากรต่ำ และมีความเสถียรสูง ⚡
 
