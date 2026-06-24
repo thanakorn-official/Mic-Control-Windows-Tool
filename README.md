@@ -29,7 +29,7 @@
 
 ---
 
-### ✨ ฟีเจอร์เด่น (Key Features)ำ
+### ✨ ฟีเจอร์เด่น (Key Features)
 * 📥 **System Tray Integration:** ทำงานอยู่บนแถบงานระบบ (System Tray) พร้อมเมนูคลิกขวาที่สั่งการได้ทันที
 * 🔒 **Single-Instance Locking:** มีระบบป้องกันการเปิดแอปพลิเคชันซ้ำซ้อน (Mutex/Single Instance Lock) เพื่อความปลอดภัยและประหยัดทรัพยากรเครื่อง
 * 🎙️ **Pycaw Core Control:** ใช้ไลบรารีระดับล่าง (Low-level Core Audio) ในการจัดการและควบคุม Hardware Endpoint โดยตรง
